@@ -1,0 +1,54 @@
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\BookAudio.exe
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\BookAudio.deps.json
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\BookAudio.runtimeconfig.json
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\BookAudio.runtimeconfig.dev.json
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\BookAudio.dll
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\BookAudio.pdb
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.csprojAssemblyReference.cache
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\Audiobook.Books.resources
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\Audiobook.Form1.resources
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\Audiobook.home.resources
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\Audiobook.Pay.resources
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.Properties.Resources.resources
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\Audiobook.SignUp.resources
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.csproj.GenerateResource.cache
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.AssemblyInfoInputs.cache
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.AssemblyInfo.cs
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.csproj.CoreCompileInputs.cache
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.csproj.CopyComplete
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.dll
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.pdb
+C:\Users\SOHILA ESAM\source\repos\Audiobook\Audiobook\obj\Debug\netcoreapp3.1\BookAudio.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\BookAudio.exe
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\BookAudio.deps.json
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\BookAudio.runtimeconfig.json
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\BookAudio.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\BookAudio.dll
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\BookAudio.pdb
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\Audiobook.Books.resources
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\Audiobook.Form1.resources
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\Audiobook.home.resources
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\Audiobook.Pay.resources
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\Audiobook.SignUp.resources
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.csproj.CopyComplete
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.dll
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.pdb
+C:\Users\Administrator\Desktop\aaaaa\Audiobook\Audiobook\Audiobook2000\obj\Debug\netcoreapp3.1\BookAudio.genruntimeconfig.cache
